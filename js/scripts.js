@@ -1,4 +1,4 @@
-var mainFunction = function(yourNumber, dominantProgression){
+var mainFunction = function(yourNumber){
   var rangeVar = rangeGen(yourNumber);
   var result = stringInsertor(rangeVar);
 return result; 
@@ -63,8 +63,8 @@ $(document).ready(function() {
   $("form#inputAndOutput").submit(function(event){
      event.preventDefault();
      var yourNumber = parseInt($("#yourNumber").val());
-     var dominantProgression = parseInt($("#dominantProgression").val());
-     var finalResult = mainFunction(yourNumber, dominantProgression);
+     //var dominantProgression = parseInt($("#dominantProgression").val());
+     var finalResult = mainFunction(yourNumber);
      $("#output").text(finalResult);
      });
  });
