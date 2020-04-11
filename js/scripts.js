@@ -63,7 +63,6 @@ $(document).ready(function() {
   $("form#inputAndOutput").submit(function(event){
      event.preventDefault();
      var yourNumber = parseInt($("#yourNumber").val());
-     
      var finalResult = mainFunction(yourNumber);
      $("#output").text(finalResult);
      });
