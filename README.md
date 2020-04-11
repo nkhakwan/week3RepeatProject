@@ -26,12 +26,12 @@ _Have a bug or an issue with this application? call 999-503-9999_
 
 ## Technologies Used
 
-**HTML**,
-**CSS**,
-**Bootstrap**,
-**Git and GitHub**,
-**JavaScript Loops and Arrays and if statements**,
-**jQuery**
+_**HTML**_,
+_**CSS**_,
+_**Bootstrap**_,
+_**Git and GitHub**_,
+_**JavaScript Loops and Arrays and if statements**_,
+_**jQuery**_
 
 ### Specs Input
 | Spec | Input | result |
