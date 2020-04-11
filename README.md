@@ -14,7 +14,7 @@ _This website takes a number and replays a full range of numbers from 0 till the
 * Navigate to index.html file.
 * Right click and open in the browser of your choice.
 
-* Alternatively, open the webpage at [click here](https://nkhakwan.github.io/week3Project/)
+* Alternatively, open the webpage at [click here](https://nkhakwan.github.io/week3RepeatProject/)
 
 ## Known Bugs
 
