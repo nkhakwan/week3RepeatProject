@@ -2,7 +2,7 @@
 
 #### _Epicodus Week 3 Project_
 
-#### By _**KhaanSahab**_
+#### By _**KhanSahab**_
 
 ## Description
 
