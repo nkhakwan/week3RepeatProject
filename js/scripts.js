@@ -4,8 +4,6 @@ var mainFunction = function(yourNumber){
 return result; 
 }
 
-
-
 /// ============ rangeGen function =======================================
 
 
@@ -17,7 +15,6 @@ var rangeGen = function(aNumber){
   } 
   return rangg;
 } 
-
 
 
 /// ============== stringInsertor function ============================================
