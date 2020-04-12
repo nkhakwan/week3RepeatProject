@@ -22,7 +22,7 @@ None so far. Original project was done with not understanding the rules for stin
 
 ## Support and contact details
 
-_Have a bug or an issue with this application? call 999-503-9999_
+_Have a bug or an issue with this application? call 503-999-9999_
 
 ## Technologies Used
 
