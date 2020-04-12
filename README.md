@@ -37,7 +37,7 @@ _**jQuery**_
 | Spec | Input | result |
 | :-------------  | :-----------------------------------------------------| :----------------------------------------|
 | **Number input window**  | User Input:"any Number" | Output: "Full range of numbers from 0 to that number with numbers containing 1, 2 and three replaced by funny strings" |
-| **replaced numbers case one** | Input "any number" | Output: "numbers containing one is replaced by BEEP!, numbers containing two are replaced by BOOB! and numbers containing 3 is replaced by "won't you be my neighbour!". Rest remain same|
+| **replaced numbers case one** | Input "any number" | Output: "numbers containing one is replaced by BEEP!, numbers containing two are replaced by BOOP! and numbers containing 3 is replaced by "won't you be my neighbour!". Rest remain same|
 | **Case two** | User Input: "numbers containg all or two of 1,2 and 3| Output : All those numbers to be replaced by strings corresponding to most significant of the three numbers present. Example 12 would be replaced by string corresponding to 2. and 13 corresponding to 3 |
 
 ### License
